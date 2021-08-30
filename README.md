@@ -8,4 +8,4 @@ This is the main repository for all of the projects in the course.
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/xhoang0509/50projects50days/tree/master/01.expanding-cards)                             | [Live Demo](https://xhoang0509.github.io/50projects50days/01.expanding-cards/)               |
-
+| 02  | [Progress Steps](https://github.com/xhoang0509/50projects50days/tree/master/02.progress steps)                               | [Live Demo](https://xhoang0509.github.io/50projects50days/02.progress steps/)                |
